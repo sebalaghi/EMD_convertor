@@ -28,4 +28,4 @@ The script depends on the following Python packages:
 Please ensure that you have these packages installed before running the script.
 
 **Author:**
-This script was written by S. Esmael Balaghi.
+This script is written by S. Esmael Balaghi.
